@@ -54,8 +54,3 @@ Automatic Notes Maker is a Python-based desktop application that converts speech
 ---
 
 ## 📦 Installation
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/automatic-notes-maker.git
-cd automatic-notes-maker
